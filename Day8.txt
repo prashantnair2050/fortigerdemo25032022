@@ -1,0 +1,25 @@
+AWS Bigdata
+Trainer: Prashant nair
+=========================================================================================================================
+
+
+Bigdata Engineering
+
+
+Domains
+
+1. Data Acquisition ----------- Kinesis Firehose, Kinesis Data Stream, S3
+	File - S3
+	Database - AWS Database Migration Service (AWS DMS)
+	Streams - Kinesis Firehose | DataStream
+
+2. Data Preprocessing --------- AWS Lambda | Kinesis Agent
+3. Data Transformation -------- AWS Lambda | AWS Glue | Athena | DynamoDB | Redshift | Sagemaker Notebook(Pyspark)
+4. Data View ------------------ AWS Glue | Athena | Redshift
+5. Intelligence layer --------- AWS Sagemaker
+
+
+
+Continue working on your project ... For any queries please use the chatbox. I am there at the back end !!!
+
+
